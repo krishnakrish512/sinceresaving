@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f436dc0-6c69-4caa-890f-4b8622b04b7c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ProjectId" id="1kjl8z2b2Q4u9hC6VRdqft8cq6Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sonas" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\wamp64\www\co-operative\wp-content\themes\corporate\partials\flexible-content" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f436dc0-6c69-4caa-890f-4b8622b04b7c" name="Default Changelist" comment="" />
+      <created>1606221729672</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606221729672</updated>
+      <workItem from="1606221739803" duration="4313000" />
+      <workItem from="1606278337158" duration="28631000" />
+      <workItem from="1606365668398" duration="5280000" />
+      <workItem from="1606372241449" duration="13339000" />
+      <workItem from="1606451521178" duration="8699000" />
+      <workItem from="1606477298827" duration="9592000" />
+      <workItem from="1606710354358" duration="26854000" />
+      <workItem from="1606797209961" duration="16842000" />
+      <workItem from="1606884693021" duration="17405000" />
+      <workItem from="1606971320840" duration="249000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="23" key="#Deployment" timestamp="1606391638432">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Deployment/0.0.1366.728@0.0.1366.728" timestamp="1606391638432" />
+    <state x="42" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1606302163972">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="42" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1606302163972" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1606475820573">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606475820573" />
+    <state x="517" y="288" key="NewPhpFileDialog" timestamp="1606798349959">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="288" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1606798349959" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1606971331838">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1606971331838" />
+    <state x="568" y="95" key="ftp.server.browser" timestamp="1606391629162">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="568" y="95" key="ftp.server.browser/0.0.1366.728@0.0.1366.728" timestamp="1606391629162" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1606299718669">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1606299718669" />
+  </component>
+</project>
